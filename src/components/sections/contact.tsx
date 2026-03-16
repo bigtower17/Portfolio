@@ -47,14 +47,14 @@ export function Contact() {
     },
     {
       icon: Phone,
-      label: "Telefono",
+      label: "Phone",
       value: "+39 123 456 7890",
       href: "tel:+39123456789",
     },
     {
       icon: MapPin,
-      label: "Località",
-      value: "Italia",
+      label: "Location",
+      value: "Italy",
       href: null,
     },
   ];
